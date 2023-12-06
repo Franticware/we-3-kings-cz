@@ -29,11 +29,11 @@ Boha na výsosti
 
 R
 
-Myrha vůní tajemnou
-éru předpoví temnou
+Myrha vůně tajemné
+budí předtuchy temné
 Slzou, krví,
 žalem plní
-amforu studenou
+tmu hrobky studené
 
 R
 
