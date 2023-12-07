@@ -13,8 +13,8 @@ hory zdárně
 následujem hvězdu
 
 R:
-Ó, jasná záři, dál nás veď,
-kéž najdeme odpověď
+Ó, jasná záři, dál nás veď
+tam, kde získat odpověď
 směrem v západ
 lépe chápat
 poselství té pravé z hvězd.
