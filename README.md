@@ -3,6 +3,8 @@ je český text koledy https://en.wikipedia.org/wiki/We_Three_Kings
 
 Autor: Vojtěch Salajka
 
+Licence: https://creativecommons.org/licenses/by/4.0/ 
+
 ```
 My tři vládci Orientu
 nesem dary dlouhou cestu
@@ -47,3 +49,4 @@ Nebesa pějí Aleluja,
 Aleluja zem zpívá
 
 R
+```
