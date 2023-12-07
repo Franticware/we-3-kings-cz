@@ -1,5 +1,9 @@
-# we-3-kings-cz
+# My tři vládci Orientu
+je český text koledy https://en.wikipedia.org/wiki/We_Three_Kings
 
+Autor: Vojtěch Salajka
+
+```
 My tři vládci Orientu
 nesem dary dlouhou cestu
 skrze pláně,
