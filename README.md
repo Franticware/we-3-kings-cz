@@ -28,7 +28,7 @@ vládni nám všem již dnes
 R
 
 Kadidlo mu obětuji
-božskou vůni zapaluji
+vzácná zrna zapaluji
 lide, vstaňme,
 písní chvalme
 Boha na výsosti
