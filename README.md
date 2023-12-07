@@ -45,8 +45,8 @@ R
 
 Pán přeslavný povstává
 Bůh Syn, oběť nám pravá
-Nebesa pějí Aleluja,
-Aleluja zem zpívá
+Aleluja, Aleluja
+nebe i zem zpívá
 
 R
 ```
