@@ -7,14 +7,14 @@ Licence: https://creativecommons.org/licenses/by/4.0/
 
 ```
 My tři vládci Orientu
-nesem dary dlouhou cestu
+dary nesem dálnou cestu
 skrze pláně,
 hory zdárně
 následujem hvězdu
 
 R:
 Ó, jasná záři, dál nás veď
-tam, kde získat odpověď
+tam, kde zvíme odpověď
 směrem v západ
 lépe chápat
 poselství té pravé z hvězd.
@@ -37,7 +37,7 @@ R
 
 Myrha vůně tajemné
 budí předtuchy temné
-Slzou, krví,
+slzou, krví,
 žalem plní
 tmu hrobky studené
 
