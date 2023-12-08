@@ -50,3 +50,4 @@ nebe i zem zpívá
 
 R
 ```
+Poznámka: Je pravděpodobné, že tento text bude autorem průběžně více či méně upravován.
