@@ -15,7 +15,7 @@ následujem hvězdu
 R:
 Ó, jasná záři, dál nás veď
 tam, kde zvíme odpověď
-směrem v západ
+dál na západ
 lépe chápat
 poselství té pravé z hvězd.
 
