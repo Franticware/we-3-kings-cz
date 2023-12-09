@@ -15,8 +15,8 @@ následujem hvězdu
 R:
 Ó, jasná záři, dál nás veď
 tam, kde zvíme odpověď
-dál na západ
-lépe chápat
+směr na západ
+rozpoznávat
 poselství té pravé z hvězd.
 
 Král v Betlémě narozen jest
