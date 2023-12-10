@@ -13,11 +13,11 @@ hory zdárně
 následujem hvězdu
 
 R1:                                  R2:
-Ó, Hvězdo, záříš jasně tmou          Ó, jasná záři, dál nás veď
-majestátně nad hlavou                tam, kde zvíme odpověď
-směr na západ                        směr na západ
+Ó, Hvězdo jasná, záříš tmou          Ó, jasná záři, dál nás veď
+majestátně oblohou                   tam, kde zvíme odpověď
+směrem západ                         směrem západ
 máme chvátat                         rozpoznávat
-získat zprávu radostnou              poselství Té pravé z hvězd
+vítat zprávu radostnou               poselství Té pravé z hvězd
 
 Král v Betlémě narozen jest
 Ryzím zlatem vzdávám mu čest
