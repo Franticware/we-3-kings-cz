@@ -12,12 +12,12 @@ skrze pláně,
 hory zdárně
 následujem hvězdu
 
-R1:                                  R2:
-Ó, Hvězdo jasná, záříš tmou          Ó, jasná záři, dál nás veď
-majestátně oblohou                   tam, kde zvíme odpověď
-směrem západ                         směrem západ
-máme chvátat                         rozpoznávat
-vítat zprávu radostnou               poselství Té pravé z hvězd
+R:
+Ó, hvězdo jasná, svítíš tmou
+majestátně oblohou
+západně vést
+necháme se
+dokonalou září tvou
 
 Král v Betlémě narozen jest
 Ryzím zlatem vzdávám mu čest
@@ -52,4 +52,3 @@ R
 ```
 Poznámky:
 * Je pravděpodobné, že tento text bude autorem průběžně více či méně upravován.
-* Refrén má dvě alternativy. Je možné si vybrat nebo použít obě, například v pořadí R1, R1, R1, R1, R2.
