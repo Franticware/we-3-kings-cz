@@ -1,4 +1,4 @@
-# My tři vládci Orientu
+# [My tři vládci Orientu](https://franticware.github.io/we-3-kings-cz/)
 je český text koledy https://en.wikipedia.org/wiki/We_Three_Kings
 
 Autor: Vojtěch Salajka
@@ -52,3 +52,4 @@ R
 ```
 Poznámky:
 * Je pravděpodobné, že tento text bude autorem průběžně více či méně upravován.
+* Odkaz na repozitář: https://github.com/Franticware/we-3-kings-cz
