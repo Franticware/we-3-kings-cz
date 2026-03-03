@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub README Viewer</title>
+    <meta name="description" content="My tři vládci Orientu" />
+    <title>My tři vládci Orientu</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <style>
         body {
@@ -34,7 +35,7 @@
 </head>
 <body>
 
-    <div id="content">Loading content...</div>
+    <div id="content"><a href="https://raw.githubusercontent.com/Franticware/we-3-kings-cz/main/README.md">My tři vládci Orientu</a></div>
 
     <script>
         // The URL must point to the "raw" version of the file
@@ -55,7 +56,6 @@
                 // Use Marked.js to convert Markdown string to HTML
                 container.innerHTML = marked.parse(markdownText);
             } catch (error) {
-                container.innerHTML = `<p style="color: red;">Error: ${error.message}</p>`;
             }
         }
 
