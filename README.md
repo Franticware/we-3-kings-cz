@@ -50,6 +50,9 @@ nebe i zem zpívá
 
 R
 ```
+
+Noty: https://github.com/Franticware/we-3-kings-cz/blob/main/sheetmusic/3.pdf
+
 Poznámky:
 * Je pravděpodobné, že tento text bude autorem průběžně více či méně upravován.
 * Odkaz na repozitář: https://github.com/Franticware/we-3-kings-cz
